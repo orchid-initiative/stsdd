@@ -1,13 +1,13 @@
-Slay the Spire [Date] Daily - [Character] | {Manual text}
+Slay the Spire March 15th, 2023 Daily - Watcher | {Manual text}
 
-Hi All! This is my attempt at the [Date] Daily with the [Character]. The [Initial Deck] run starts at .
+Hi All! This is my attempt at the March 15th, 2023 Daily with the Watcher. The [Initial Deck] run starts at .
 The modifiers for this daily are:
 
 1. [Category 1 modifier]: [Category 1 modifier description].
 2. [Category 2 modifier]: [Category 2 modifier description].
 3. [Category 3 modifier]: [Category 3 modifier description].
 
-My final score was [final score], which was {Manual text}. I perfected [*Number of perfected Elites*]/[*Number of total Elites*] possible Elites and [Number of perfected Bosses]/3 of the bosses.
+My final score was 1414, which was {Manual text}. I perfected [*Number of perfected Elites*]/[*Number of total Elites*] possible Elites and [Number of perfected Bosses]/3 of the bosses.
 
 Slay the Spire is a game created and developed by Mega Crit Games. An Early Access version was released in November 2017, and was updated almost weekly until the full release on January 23, 2019. Version 2.0 was released on January 14, 2020, which included many added relics, potions, and most importantly, the fourth character.
 
@@ -18,7 +18,7 @@ Thanks again Stephen!
 
 00:00 Intro
 [*Initial Deck modifiers*]
-{{Manual text}} Act I
+{Manual text} Act I
 {Manual text} Act I boss fight
 {Manual text} Act II
 {Manual text} Act II boss fight
@@ -28,4 +28,4 @@ Thanks again Stephen!
 
 #LetsPlay #SlayTheSpire #SlayTheSpireDaily
 
-[Character], The [Character], [Date] daily, [Date], [Date as Month Day], [Date as MMDD], [Date as DDMM],  [Date as MM.DD.CCYY], [Date as DD.MM.CCYY], [Date as MM.DD], [Date as DD.MM], [Category 1 modifier], [Category 2 modifier], [Category 3 modifier]
+Watcher, The Watcher, March 15th, 2023 daily, March 15th, 2023, March 15th, 0315, 1503, 03.15.2023, 15.03.2023, 03.15, 15.03, [Category 1 modifier], [Category 2 modifier], [Category 3 modifier]
